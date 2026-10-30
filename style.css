@@ -4,13 +4,61 @@ body {
     padding: 0;
     background-color: #b8aa7f;}
 h1 {
-
-    color: #5e2207;
-    background-color: #b8aa7f;
+    text-align: center;
+    color: #000000;
+    background-color: #ffbf00;
     padding: 20px;
 }
 h2 {
+    border: 2px solid #000000;
+    text-align: center;
     color: #eb5510;
     background-color: #b8aa7f;
     padding: 10px;
+}
+h3 {
+    text-align: center;
+    color: #5d00ff;
+    background-color: #b8aa7f;
+    padding: 5px;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+p{
+    text-align: center;
+    color: #a53703;
+    background-color: #b88e7f;
+    padding: 10px;
+}
+ul {
+    text-align: center;
+    list-style-type: none; ;
+    padding: 0;
+}
+iframe {
+    center;
+    display: block;
+    margin: 20px auto;
+    border: none;
+}
+a[href] {
+    text-align: center;
+    display: block;
+    color: #ff0000;
+    text-decoration: none;
+}
+figcaption {
+    text-align: center;
+    color: #000000;
+    background-color: #b8aa7f;
+    padding: 5px;
+}
+em {
+    text-align: center;
+    display: block;
+    margin: 20px auto;
 }
