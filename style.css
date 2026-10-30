@@ -40,7 +40,7 @@ ul {
     padding: 0;
 }
 iframe {
-    center;
+    text-align: center;
     display: block;
     margin: 20px auto;
     border: none;
@@ -58,6 +58,11 @@ figcaption {
     padding: 5px;
 }
 em {
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+}
+strong {
     text-align: center;
     display: block;
     margin: 20px auto;
